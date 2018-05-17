@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/bismab/LendingClub_Expl_Lo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+ {
+      "name": "LendingClub_Expl_LogReg",
+      "type": "org"
+  }
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
